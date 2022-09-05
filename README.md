@@ -1,4 +1,4 @@
-# [Rentiz](https://eugene-gif.github.io/BuildHouse/) - сайт по продаже недвижимости.
+# [Rentiz](https://eugene-gif.github.io/Rentiz/) - сайт по продаже и съему недвижимости.
 
 
 <h3>Описание:</h3>
